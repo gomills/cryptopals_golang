@@ -1,4 +1,4 @@
-These are notes and instructions that explain each CryptoPals challenge.
+These are notes and instructions that explain each CryptoPals challenge. As of last update, I've completed up to set 3.
 
 # Summary of vulnerabilites studied
 
@@ -742,3 +742,4 @@ We take some assumptions for this attack to work:
 - we know the round of the PRNG
 - we know the seed space of the PRNG
 - we know the index of our plaintext injection
+
